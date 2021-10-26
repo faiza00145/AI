@@ -1,0 +1,3 @@
+There two type search
+1-BFS
+2-DFS
